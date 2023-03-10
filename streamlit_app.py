@@ -47,7 +47,7 @@ except URLError as e:
     streamlit.error()
 
 # DON'T RUN ANYTHING PAST THIS POINT
-streamlit.stop()
+#streamlit.stop()
 
 
 streamlit.header("The fruit list contains:")
